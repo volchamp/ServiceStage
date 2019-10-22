@@ -20,7 +20,7 @@ Android端websocket即时通讯demo
 </div>
 
 <br>
-ps:觉得有用就把 star 安排上哟！
+ps：觉得有用就把 <b>star</b> 安排上哟！
 
 ***
 更多技术干货，欢迎关注我的公众号：ChaoYoung
