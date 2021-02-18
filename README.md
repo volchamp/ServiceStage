@@ -23,5 +23,5 @@ Android端websocket即时通讯demo
 ps：觉得有用就把 <b>star</b> 安排上哟！
 
 ***
-更多技术干货，欢迎关注我的公众号：ChaoYoung
+更多技术干货，欢迎关注我的公众号：程序员大佬超
 <br><img src="https://github.com/yangxch/WebSocketClient/raw/master/screenshot/qrcode_chaoyoung.jpg" width="20%" height="20%">
